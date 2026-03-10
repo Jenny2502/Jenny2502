@@ -41,13 +41,6 @@ Led a team of 4 in a 36-hour DubHacks hackathon. Built a volunteer coordination 
 
 ---
 
-### [MIRACIDS](https://github.com/Jenny2502/MIRACIDS)
-**HTML · CSS · JavaScript**
-
-Frontend UI project — responsive design, layout, and styling.
-
----
-
 ## Experience
 
 | Role | Company | Period |
