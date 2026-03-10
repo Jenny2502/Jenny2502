@@ -20,7 +20,7 @@ Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
 ## Projects
 
-### Web Accessibility Violation Classifier
+### Web Accessibility Violation Classifier(https://github.com/Jenny2502/web-accessibility-classifier)
 **Python · scikit-learn · pandas · numpy**
 
 4th place at DubsTech Datathon (400+ participants). Built a multi-class ML model predicting 60+ types of web accessibility violations from raw HTML. Achieved 87% accuracy on 3,500+ labeled violations from 400+ websites. Demoed on real sites including USA.gov.
