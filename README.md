@@ -8,8 +8,6 @@ Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
 ## Tech Stack
 
-## Tech Stack
-
 **Languages:** Java, Python, TypeScript, JavaScript, R, SQL, C
 
 **Frontend:** React, TypeScript, Tailwind CSS, HTML, CSS, Leaflet.js, Figma
