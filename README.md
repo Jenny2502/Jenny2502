@@ -1,6 +1,6 @@
 # Jenny Hoang
 
-**CS @ University of Washington Seattle '28 · Prev SWE Intern @EntangleX · AI/ML Enthusiast**
+**CS @ University of Washington Seattle '27 · Prev SWE Intern @EntangleX · AI/ML Enthusiast**
 
 Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
