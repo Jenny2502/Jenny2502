@@ -1,6 +1,6 @@
 # Jenny Hoang
 
-**CS @ University of Washington Seattle '28 · SWE Intern @ Twilio· AI/ML Enthusiast**
+**CS @ University of Washington Seattle '27 · SWE Intern @ Twilio· AI/ML Enthusiast**
 
 Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
