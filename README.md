@@ -49,7 +49,7 @@ Led a team of 4 in a 36-hour DubHacks hackathon. Built a volunteer coordination 
 | Software Engineer Intern | EntangleX *(AI Education Startup, Seattle)* | Jun – Sep 2025 |
 | Product Design Intern | Viettel AI *(Vietnam's largest tech conglomerate)* | Jul – Aug 2023 |
 
-**TwilioD** - Architected automated ELT data pipelines using Windmill.dev, replacing legacy Matillion systems and reducing data orchestration
+**Twilio** - Architected automated ELT data pipelines using Windmill.dev, replacing legacy Matillion systems and reducing data orchestration
 latency for HR analytics. Implemented medallion architecture in Snowflake to build analytics-ready HR data tables for executive workforce dashboards. Developed proof-of-concept LLM integration flows using Gemini and OpenAI APIs inside Windmill pipelines, with secure API token
 management via Windmill’s secrets vault ensuring PII compliance across HR data flows
 
