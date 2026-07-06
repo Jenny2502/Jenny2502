@@ -1,6 +1,6 @@
 # Jenny Hoang
 
-**CS @ University of Washington Seattle '27 · Prev SWE Intern @EntangleX · AI/ML Enthusiast**
+**CS @ University of Washington Seattle '28 · SWE Intern @ Twilio· AI/ML Enthusiast**
 
 Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
@@ -8,11 +8,13 @@ Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
 ## Tech Stack
 
-**Languages:** Java, Python, TypeScript, JavaScript, R, SQL, C
+**Languages:** Java, Python, SQL, JavaScript, TypeScript, C++, HTML, CSS
 
-**Frontend:** React, TypeScript, Tailwind CSS, HTML, CSS, Leaflet.js, Figma
+**Frameworks & Libraries:** React.js, Node.js, Flutter, NumPy, scikit-learn, Tailwind CSS, Bootstrap
 
-**Backend & Tools:** Node.js, Express, PostgreSQL, OpenAI API, Git, Linux
+**Developer Tools:** Git, GitHub, Windmill, VS Code, IntelliJ, Android Studio, Figma, Linux
+
+**Databases, Cloud & APIs:** Snowflake, AWS, PostgreSQL, MySQL, OpenAI API, Gemini API, REST APIs
 
 ---
 
@@ -43,8 +45,13 @@ Led a team of 4 in a 36-hour DubHacks hackathon. Built a volunteer coordination 
 
 | Role | Company | Period |
 |------|---------|--------|
+| Software Engineer Intern | Twilio *(People Data Solution and AI Team, Seattle)* | Jun – Sep 2026 |
 | Software Engineer Intern | EntangleX *(AI Education Startup, Seattle)* | Jun – Sep 2025 |
 | Product Design Intern | Viettel AI *(Vietnam's largest tech conglomerate)* | Jul – Aug 2023 |
+
+**TwilioD** - Architected automated ELT data pipelines using Windmill.dev, replacing legacy Matillion systems and reducing data orchestration
+latency for HR analytics. Implemented medallion architecture in Snowflake to build analytics-ready HR data tables for executive workforce dashboards. Developed proof-of-concept LLM integration flows using Gemini and OpenAI APIs inside Windmill pipelines, with secure API token
+management via Windmill’s secrets vault ensuring PII compliance across HR data flows
 
 **EntangleX** — Engineered React.js frontend with backend integration serving 150+ educators. Integrated OpenAI API into React components. Optimized 20+ AI prompt variations, improving content quality by 25%.
 
@@ -69,4 +76,4 @@ Led a team of 4 in a 36-hour DubHacks hackathon. Built a volunteer coordination 
 
 ---
 
-*Currently looking for Summer 2026 SWE internships — open to backend, fullstack, and AI/ML roles.*
+*Currently looking for Summer 2027 SWE internships — open to backend, fullstack, and AI/ML roles.*
