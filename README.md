@@ -16,7 +16,7 @@ Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
 **Databases, Cloud & Systems:** Snowflake, AWS S3, AWS Lambda, AWS IAM, PostgreSQL, MySQL, Redis, Kafka, REST APIs
 
-**AI & APIs: OpenAI GPT-4o, Claude Code, GitHub Copilot, Model Context Protocol (MCP), OpenAI API, Gemini API
+**AI & APIs:** OpenAI GPT-4o, Claude Code, GitHub Copilot, Model Context Protocol (MCP), OpenAI API, Gemini API
 
 ---
 
