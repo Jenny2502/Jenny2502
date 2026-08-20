@@ -10,11 +10,13 @@ Junior building real things with Python, React, and AI APIs. Based in Seattle.
 
 **Languages:** Java, Python, SQL, JavaScript, TypeScript, C++, HTML, CSS
 
-**Frameworks & Libraries:** React.js, Node.js, Flutter, NumPy, scikit-learn, Tailwind CSS, Bootstrap
+**Frameworks & Libraries:** React.js, Node.js, FastAPI, Flutter, NumPy, scikit-learn, Tailwind CSS, Bootstrap
 
-**Developer Tools:** Git, GitHub, Windmill, VS Code, IntelliJ, Android Studio, Figma, Linux
+**Developer Tools:** Git, GitHub, GitLab, Windmill.dev, Docker, Kubernetes, VS Code, IntelliJ, Android Studio, Figma, Linux
 
-**Databases, Cloud & APIs:** Snowflake, AWS, PostgreSQL, MySQL, OpenAI API, Gemini API, REST APIs
+**Databases, Cloud & Systems:** Snowflake, AWS S3, AWS Lambda, AWS IAM, PostgreSQL, MySQL, Redis, Kafka, REST APIs
+
+**AI & APIs: OpenAI GPT-4o, Claude Code, GitHub Copilot, Model Context Protocol (MCP), OpenAI API, Gemini API
 
 ---
 
@@ -49,9 +51,8 @@ Led a team of 4 in a 36-hour DubHacks hackathon. Built a volunteer coordination 
 | Software Engineer Intern | EntangleX *(AI Education Startup, Seattle)* | Jun – Sep 2025 |
 | Product Design Intern | Viettel AI *(Vietnam's largest tech conglomerate)* | Jul – Aug 2023 |
 
-**Twilio** - Architected automated ELT data pipelines using Windmill.dev, replacing legacy Matillion systems and reducing data orchestration
-latency for HR analytics. Implemented medallion architecture in Snowflake to build analytics-ready HR data tables for executive workforce dashboards. Developed proof-of-concept LLM integration flows using Gemini and OpenAI APIs inside Windmill pipelines, with secure API token
-management via Windmill’s secrets vault ensuring PII compliance across HR data flows
+**Twilio** - Investigated Windmill.dev as a $36,000+/year cost-reduction replacement for Twilio’s data orchestration tool, pioneering the team’s
+first AI agent integration via MCP and reducing workflow creation time by 96% (from 2+ hours to under 5 minutes). Architected 2 AI-powered automation pipelines using Snowflake, AWS S3, Python, and OpenAI GPT-4o, automating manual HR data reporting and real-time monitoring of Matillion job failures across 5 enterprise systems. Shipped a production failure detection system delivering plain-English fix recommendations to 6 engineers via Slack within 10 minutes, cutting mean-time-to-detection from 3+ hours to under 1 hour
 
 **EntangleX** — Engineered React.js frontend with backend integration serving 150+ educators. Integrated OpenAI API into React components. Optimized 20+ AI prompt variations, improving content quality by 25%.
 
